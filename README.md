@@ -2,4 +2,4 @@
 AKA Bullet Knight
 This was a game jam project
 
-[Play in the browser]([https://jtmchenry.github.io/Bullet-Knight/](https://ninjobi.github.io/Bullet-Knight/))
+[Play in the browser](https://ninjobi.github.io/Bullet-Knight/))
